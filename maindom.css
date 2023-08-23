@@ -1,0 +1,26 @@
+html{
+    font-variant-numeric: 22px;
+}
+body{
+    background-color: rgb(207, 231, 223);
+    
+}
+table,th,td{
+    border-spacing:15px;
+    border:3px solid white;
+    border-collapse:separate;
+}
+th,td{
+    background-color:aqua;
+}
+th,td{
+    padding-top:50px;
+    padding-bottom:20px;
+    padding-left: 4px;
+    padding-right: 58px;
+
+}
+.Kalai{
+    color:yellowgreen;
+    background-color: brown;
+}
